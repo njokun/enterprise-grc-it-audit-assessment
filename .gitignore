@@ -1,0 +1,22 @@
+﻿# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+
+# Temporary files
+*.tmp
+*.bak
+~$*
+
+# Local working files
+local/
+private/
