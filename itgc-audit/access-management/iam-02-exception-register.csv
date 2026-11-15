@@ -1,0 +1,6 @@
+﻿"Exception_ID","Control_ID","Employee_ID","Exception_Type","Hours_To_Disable","Observation","Risk","Recommended_Action","Remediation_Status"
+"EX-IAM02-EMP-005","IAM-02","EMP-005","Control Failure","44","Account disabled after 24-hour requirement","Unauthorized access following employee termination","Investigate offboarding delay and strengthen timely account disablement","Open"
+"EX-IAM02-EMP-010","IAM-02","EMP-010","Control Failure","42","Account disabled after 24-hour requirement","Unauthorized access following employee termination","Investigate offboarding delay and strengthen timely account disablement","Open"
+"EX-IAM02-EMP-016","IAM-02","EMP-016","Control Failure","44","Account disabled after 24-hour requirement","Unauthorized access following employee termination","Investigate offboarding delay and strengthen timely account disablement","Open"
+"EX-IAM02-EMP-026","IAM-02","EMP-026","Control Failure","46","Account disabled after 24-hour requirement","Unauthorized access following employee termination","Investigate offboarding delay and strengthen timely account disablement","Open"
+"EX-IAM02-EMP-029","IAM-02","EMP-029","Insufficient Evidence","","Missing account disable timestamp","Unauthorized access following employee termination","Obtain reliable account disablement evidence and investigate account status","Open"

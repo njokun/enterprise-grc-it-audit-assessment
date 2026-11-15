@@ -1,0 +1,31 @@
+﻿Employee_ID,Department,Access_Level,Termination_Type,Termination_Timestamp_UTC
+EMP-001,Finance,Standard,Voluntary,2026-01-08T17:00:00Z
+EMP-002,Engineering,Privileged,Involuntary,2026-01-19T15:00:00Z
+EMP-003,Operations,Standard,Voluntary,2026-01-27T17:00:00Z
+EMP-004,Customer Support,Standard,Voluntary,2026-02-05T17:00:00Z
+EMP-005,Engineering,Standard,Involuntary,2026-02-12T14:00:00Z
+EMP-006,Finance,Privileged,Voluntary,2026-02-24T17:00:00Z
+EMP-007,Sales,Standard,Voluntary,2026-03-03T17:00:00Z
+EMP-008,IT,Privileged,Involuntary,2026-03-11T13:00:00Z
+EMP-009,Operations,Standard,Voluntary,2026-03-20T17:00:00Z
+EMP-010,Customer Support,Standard,Involuntary,2026-03-30T16:00:00Z
+EMP-011,Engineering,Standard,Voluntary,2026-04-07T17:00:00Z
+EMP-012,Finance,Standard,Voluntary,2026-04-15T17:00:00Z
+EMP-013,IT,Privileged,Involuntary,2026-04-23T12:00:00Z
+EMP-014,Sales,Standard,Voluntary,2026-04-29T17:00:00Z
+EMP-015,Operations,Standard,Voluntary,2026-05-06T17:00:00Z
+EMP-016,Engineering,Privileged,Involuntary,2026-05-14T15:00:00Z
+EMP-017,Customer Support,Standard,Voluntary,2026-05-22T17:00:00Z
+EMP-018,Finance,Standard,Voluntary,2026-05-28T17:00:00Z
+EMP-019,Sales,Standard,Voluntary,2026-06-04T17:00:00Z
+EMP-020,IT,Privileged,Involuntary,2026-06-12T13:00:00Z
+EMP-021,Operations,Standard,Voluntary,2026-06-19T17:00:00Z
+EMP-022,Engineering,Standard,Voluntary,2026-06-26T17:00:00Z
+EMP-023,Finance,Privileged,Involuntary,2026-07-08T14:00:00Z
+EMP-024,Customer Support,Standard,Voluntary,2026-07-17T17:00:00Z
+EMP-025,Sales,Standard,Voluntary,2026-07-29T17:00:00Z
+EMP-026,IT,Privileged,Involuntary,2026-08-06T12:00:00Z
+EMP-027,Engineering,Standard,Voluntary,2026-08-18T17:00:00Z
+EMP-028,Operations,Standard,Voluntary,2026-08-27T17:00:00Z
+EMP-029,Finance,Standard,Involuntary,2026-09-10T15:00:00Z
+EMP-030,Engineering,Privileged,Voluntary,2026-09-23T17:00:00Z

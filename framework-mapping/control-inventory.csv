@@ -1,0 +1,21 @@
+﻿Control_ID,Domain,Control_Name,Control_Objective,Control_Owner,Assessment_Status
+GOV-01,Governance and Risk,Information Security Policy,Establish and maintain an approved information security policy,Security Manager,Not Started
+GOV-02,Governance and Risk,Security Roles and Responsibilities,Define and assign cybersecurity responsibilities,Security Manager,Not Started
+GOV-03,Governance and Risk,Cybersecurity Risk Assessment,Identify and evaluate cybersecurity risks,Risk Manager,Not Started
+GOV-04,Governance and Risk,Risk Treatment and Tracking,Document and monitor risk treatment activities,Risk Manager,Not Started
+IAM-01,Identity and Access Management,User Access Provisioning,Ensure access is approved before provisioning,IT Manager,Not Started
+IAM-02,Identity and Access Management,User Access Termination,Remove access promptly following termination,IT Manager,Not Started
+IAM-03,Identity and Access Management,Multi-Factor Authentication,Require MFA for applicable accounts,Security Manager,Not Started
+IAM-04,Identity and Access Management,Privileged Access Management,Restrict and monitor privileged access,IT Manager,Not Started
+IAM-05,Identity and Access Management,Periodic Access Reviews,Review user access at defined intervals,IT Manager,Not Started
+CHG-01,Change Management,Change Authorization,Ensure changes receive appropriate approval,Engineering Manager,Not Started
+CHG-02,Change Management,Change Testing,Validate changes before production deployment,Engineering Manager,Not Started
+CHG-03,Change Management,Production Deployment Controls,Restrict and document production deployments,Engineering Manager,Not Started
+CHG-04,Change Management,Emergency Change Management,Review and document emergency changes,Engineering Manager,Not Started
+OPS-01,IT Operations,Security Logging and Monitoring,Collect and review relevant security events,Security Manager,Not Started
+OPS-02,IT Operations,Vulnerability Management,Identify and remediate vulnerabilities,Security Manager,Not Started
+OPS-03,IT Operations,Backup and Recovery,Maintain and test recovery capabilities,IT Manager,Not Started
+OPS-04,IT Operations,Incident Response,Maintain and exercise incident response procedures,Security Manager,Not Started
+TPR-01,Third-Party Security,Vendor Due Diligence,Assess vendor security before onboarding,Procurement Manager,Not Started
+TPR-02,Third-Party Security,Vendor Contract Security Requirements,Document applicable vendor security obligations,Procurement Manager,Not Started
+TPR-03,Third-Party Security,Ongoing Vendor Monitoring,Periodically reassess vendor security risks,Procurement Manager,Not Started

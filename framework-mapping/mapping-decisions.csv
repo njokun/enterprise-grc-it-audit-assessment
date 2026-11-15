@@ -1,0 +1,6 @@
+﻿Control_ID,Framework,Decision,Proposed_Reference,Justification,Validation_Status
+GOV-03,ISO 27001,Add management system clause,Clause 6.1.2,Information security risk assessment requirements,Documented
+GOV-04,ISO 27001,Add management system clause,Clause 6.1.3,Information security risk treatment requirements,Documented
+IAM-03,SOC 2,Retain existing mapping,CC6.1,Logical access and authentication criterion; MFA is a possible implementation measure,Documented
+CHG-02,NIST CSF 2.0,Retain as supporting reference pending broader mapping review,PR.PS-01,Configuration management relates to change control but does not explicitly require change testing,Further Review
+OPS-03,SOC 2,Add conditional candidate,A1.2,Recovery-related availability criterion if Availability is in scope,Scope Confirmation Required

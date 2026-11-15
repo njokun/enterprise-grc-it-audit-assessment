@@ -1,0 +1,5 @@
+﻿"Action_ID","Finding_ID","Corrective_Action","Proposed_Owner","Target_Days_After_Approval","Status","Required_Closure_Evidence","Validation_Status"
+"REM-IAM02-001","IAM-02-001","Investigate four delayed terminations and missing evidence record","IT Manager","15","Proposed","Documented exception investigation and account status verification","Not Tested"
+"REM-IAM02-002","IAM-02-001","Improve HR-to-IT termination notification workflow","HR Manager and IT Manager","30","Proposed","Updated procedure and notification workflow test evidence","Not Tested"
+"REM-IAM02-003","IAM-02-001","Implement alerts for overdue termination actions","Security Manager","45","Proposed","Alert configuration and simulated alert test results","Not Tested"
+"REM-IAM02-004","IAM-02-001","Perform independent follow-up control testing","Internal Audit","After remediation","Proposed","Follow-up testing working paper and documented conclusion","Not Tested"

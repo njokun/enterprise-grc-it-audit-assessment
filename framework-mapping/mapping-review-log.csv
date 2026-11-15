@@ -1,0 +1,6 @@
+﻿Control_ID,Framework,Current_Reference,Review_Observation,Review_Status
+GOV-03,ISO 27001,5.7;5.9,Review relationship to Clause 6.1.2 information security risk assessment,Needs Review
+GOV-04,ISO 27001,5.1,Review relationship to Clause 6.1.3 information security risk treatment,Needs Review
+IAM-03,SOC 2,CC6.1,Confirm relevant logical access criteria for MFA,Needs Review
+CHG-02,NIST CSF 2.0,PR.PS-01,Confirm relevance to change testing and change control,Needs Review
+OPS-03,SOC 2,CC7.5,Review availability and recovery criteria,Needs Review
